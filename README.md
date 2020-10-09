@@ -22,6 +22,62 @@ Historical returns are not a guarantee of future performance, but can at minimum
 
 8. The Industry- It's usually important to examine not just a stock, but the industry that the company operates in.
 
+
+_____MAIN INDUSTRIES__________
+
+COMMUNICATION SERVICES
+As noted, this sector now includes social media and traditional media companies as well as cable, 
+landline and mobile telephone carriers.
+
+CONSUMER DISCRETIONARY
+This sector consists of businesses whose demand fluctuates based on general economic conditions, 
+such as consumer durables, automobiles, hotels and restaurants, retailers and the like. 
+Companies in this sector include Amazon, General Motors, Hilton and Nike.
+
+CONSUMER STAPLES
+Consumer staples generally consist of necessities, such as food and beverages and personal products. 
+This includes producers of these goods as well as retail companies that sell them, such as supermarkets. 
+Examples include Procter & Gamble, Kimberly-Clark, Coca-Cola and Costco.
+
+ENERGY
+The energy sector consists of companies that explore, produce and sell oil and gas products as well as 
+companies that supply equipment and services to them. Companies in this sector 
+include Exxon, Chevron and Kinder Morgan.
+
+FINANCIALS
+The financials sector includes commercial banks, insurance companies, consumer lenders, investment firms 
+and the like. Major companies include JPMorgan Chase, Bank of America, Prudential Financial and 
+Discover Financial.
+
+HEALTH CARE
+This sector includes pharmaceuticals manufacturers, hospitals, health care equipment and service providers, 
+and biotechnology and life sciences companies. Prominent companies include Pfizer, 
+Bristol-Myers Squibb and United Health.
+
+INDUSTRIALS
+This sector includes a wide variety of manufacturers and transportation companies, such as defense and 
+aerospace, airlines, railroads, machinery and the like. Major companies include Boeing, 
+General Dynamics, American Airlines, 3M and General Electric.
+
+MATERIALS
+Industries in this sector include chemicals, construction materials, metals and mining, and paper and 
+forest products. DowDuPont, International Paper and Newmont Mining are a few examples of the bigger companies.
+
+REAL ESTATE SECTOR
+This sector, some of which was previously included in the financials sector, consists of equity real 
+estate investment trusts and real estate management and development firms. 
+Companies include Host Hotels, Simon Property Group and Public Storage.
+
+TECHNOLOGY
+Tech companies include manufacturers and sellers of computer hardware, software, 
+semiconductors and computer equipment in addition to providers of IT services. 
+Companies include Apple, IBM, Microsoft and Cisco.
+
+UTILITIES
+This sector includes electric and gas companies, water companies and 
+renewable electricity producers. American Electric Power, Duke Energy, Pacific Gas & Electric and 
+Public Service are among the bigger companies.
+
 9. Major Economic Indicators- No matter how hard it tries, a company can't control every single thing that might impact business.
 
 The broader economy of the nation and the world can play an outsized role in the health of a company and its share performance.
