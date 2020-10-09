@@ -23,7 +23,7 @@ Historical returns are not a guarantee of future performance, but can at minimum
 8. The Industry- It's usually important to examine not just a stock, but the industry that the company operates in.
 
 
-_____MAIN INDUSTRIES__________
+____MAIN INDUSTRIES__________
 
 COMMUNICATION SERVICES
 As noted, this sector now includes social media and traditional media companies as well as cable, 
